@@ -1,0 +1,19 @@
+{
+  "name": "betting_game_redux",
+  "version": "1.0.0",
+  "description": "a simple game of chance",
+  "main": "application.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/McTano/betting_game_redux.git"
+  },
+  "author": "McTano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/McTano/betting_game_redux/issues"
+  },
+  "homepage": "https://github.com/McTano/betting_game_redux#readme"
+}
