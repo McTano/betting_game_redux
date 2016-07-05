@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/McTano/betting_game_redux/issues"
   },
-  "homepage": "https://github.com/McTano/betting_game_redux#readme"
+  "homepage": "https://github.com/McTano/betting_game_redux#readme",
+  "dependencies": {
+    "prompt-sync": "^4.1.4"
+  }
 }
